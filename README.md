@@ -1,5 +1,5 @@
 # repo-eletiva-git
 Exemplo de aula de introdução ao GIT 
 
-##Teste
+## Teste
 Teste de Readme
